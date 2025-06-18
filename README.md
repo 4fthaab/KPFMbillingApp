@@ -91,6 +91,6 @@ Planned features in upcoming versions:
 ## 🙌 Author
 
 Developed with ❤️ by [@Afthaab](https://github.com/4fthaab)
-🧾 Built to support Kalapoth Flour Mill’s daily operations
+🧾 Built to support my Father's Business ' daily operations
 
 > Suggestions and ideas are always welcome as the project grows!
